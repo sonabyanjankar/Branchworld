@@ -3,7 +3,7 @@ package HelloWorld;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class branch3 {
+public class master {
 
         @Test
         public void test3(){
